@@ -21,4 +21,4 @@ source \$ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 " >| ~/.zshrc
 
-wget -O ~/.p10k.zsh https://github.com/genkai-online/zsh/edit/main/.p10k.zsh>
+wget -O ~/.p10k.zsh https://raw.githubusercontent.com/genkai-online/zsh/main/.p10k.zsh
