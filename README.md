@@ -5,6 +5,10 @@
 ```
 sh -c "$(wget -O- https://raw.githubusercontent.com/denis-ilchishin/zsh/main/install.sh)"
 ```
+Change default terminal
+```
+chsh -s $(which zsh)
+```
 #### Change font in vscode settings
 ```
 "terminal.integrated.fontFamily": "MesloLGS NF"
