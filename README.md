@@ -4,6 +4,7 @@
 #### Install
 ```
 sh -c "$(wget -O- https://raw.githubusercontent.com/denis-ilchishin/zsh/main/install.sh)"
+p10k configure
 ```
 Change default terminal
 ```
